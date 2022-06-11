@@ -1,5 +1,6 @@
 # Queue Image Downloader
 
+It can be useful to download thousands of images without incurring timeouts or other errors
 ## The queue come from [async](https://link-url-here.org) https://github.com/caolan/async
 
 ## Options
