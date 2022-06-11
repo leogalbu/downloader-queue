@@ -1,0 +1,16 @@
+{
+  "name": "downloader-queue",
+  "version": "1.0.0",
+  "description": "JS downloader with queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Galbusera",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "https": "^1.0.0",
+    "node-color-log": "^9.0.0"
+  }
+}
